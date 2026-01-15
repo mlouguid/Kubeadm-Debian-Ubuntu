@@ -1,4 +1,4 @@
-# How to Install Kubernetes in Ubuntu/Debian
+# How to Install k8s in Ubuntu/Debian
 Learning to install Kubernetes using kubeadm will help you (as a developer) to know the nitty gritty of k8s (kubernetes). Learning k8s tools and container runtime is useful for developing containerised applications and hosting them. Although, there are already k8s installation tools readily available such as Minikube, kind, rancher_k3s. They are all great and fast in installing and getting ready a cluster. However, installing k8s with kubeadm will certainly give you insights that those tools just skips and automates for you.
 
 # Prerequisites
